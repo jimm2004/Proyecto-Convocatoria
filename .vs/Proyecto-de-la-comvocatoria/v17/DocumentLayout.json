@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\BYRON-GUZMAN\\source\\repos\\Proyecto-de-la-comvocatoria\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8D143A6A-0AC5-4DD5-B407-DE9B48B2C77B}|Proyecto-de-la-comvocatoria\\Proyecto-de-la-comvocatoria.csproj|C:\\Users\\BYRON-GUZMAN\\source\\repos\\Proyecto-de-la-comvocatoria\\proyecto-de-la-comvocatoria\\frmpila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D143A6A-0AC5-4DD5-B407-DE9B48B2C77B}|Proyecto-de-la-comvocatoria\\Proyecto-de-la-comvocatoria.csproj|solutionrelative:proyecto-de-la-comvocatoria\\frmpila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8D143A6A-0AC5-4DD5-B407-DE9B48B2C77B}|Proyecto-de-la-comvocatoria\\Proyecto-de-la-comvocatoria.csproj|c:\\users\\byron-guzman\\source\\repos\\proyecto-de-la-comvocatoria\\proyecto-de-la-comvocatoria\\frmcola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D143A6A-0AC5-4DD5-B407-DE9B48B2C77B}|Proyecto-de-la-comvocatoria\\Proyecto-de-la-comvocatoria.csproj|solutionrelative:proyecto-de-la-comvocatoria\\frmcola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D143A6A-0AC5-4DD5-B407-DE9B48B2C77B}|Proyecto-de-la-comvocatoria\\Proyecto-de-la-comvocatoria.csproj|c:\\users\\byron-guzman\\source\\repos\\proyecto-de-la-comvocatoria\\proyecto-de-la-comvocatoria\\frmpila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8D143A6A-0AC5-4DD5-B407-DE9B48B2C77B}|Proyecto-de-la-comvocatoria\\Proyecto-de-la-comvocatoria.csproj|solutionrelative:proyecto-de-la-comvocatoria\\frmpila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{8D143A6A-0AC5-4DD5-B407-DE9B48B2C77B}|Proyecto-de-la-comvocatoria\\Proyecto-de-la-comvocatoria.csproj|C:\\Users\\BYRON-GUZMAN\\source\\repos\\Proyecto-de-la-comvocatoria\\proyecto-de-la-comvocatoria\\frmpila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D143A6A-0AC5-4DD5-B407-DE9B48B2C77B}|Proyecto-de-la-comvocatoria\\Proyecto-de-la-comvocatoria.csproj|solutionrelative:proyecto-de-la-comvocatoria\\frmpila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8D143A6A-0AC5-4DD5-B407-DE9B48B2C77B}|Proyecto-de-la-comvocatoria\\Proyecto-de-la-comvocatoria.csproj|C:\\Users\\BYRON-GUZMAN\\source\\repos\\Proyecto-de-la-comvocatoria\\proyecto-de-la-comvocatoria\\frmmenuestructura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8D143A6A-0AC5-4DD5-B407-DE9B48B2C77B}|Proyecto-de-la-comvocatoria\\Proyecto-de-la-comvocatoria.csproj|solutionrelative:proyecto-de-la-comvocatoria\\frmmenuestructura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D143A6A-0AC5-4DD5-B407-DE9B48B2C77B}|Proyecto-de-la-comvocatoria\\Proyecto-de-la-comvocatoria.csproj|C:\\Users\\BYRON-GUZMAN\\source\\repos\\Proyecto-de-la-comvocatoria\\proyecto-de-la-comvocatoria\\frmmenuestructura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D143A6A-0AC5-4DD5-B407-DE9B48B2C77B}|Proyecto-de-la-comvocatoria\\Proyecto-de-la-comvocatoria.csproj|solutionrelative:proyecto-de-la-comvocatoria\\frmmenuestructura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8D143A6A-0AC5-4DD5-B407-DE9B48B2C77B}|Proyecto-de-la-comvocatoria\\Proyecto-de-la-comvocatoria.csproj|c:\\users\\byron-guzman\\source\\repos\\proyecto-de-la-comvocatoria\\proyecto-de-la-comvocatoria\\frmpila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D143A6A-0AC5-4DD5-B407-DE9B48B2C77B}|Proyecto-de-la-comvocatoria\\Proyecto-de-la-comvocatoria.csproj|solutionrelative:proyecto-de-la-comvocatoria\\frmpila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,12 +43,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "frmCola.cs",
+              "DocumentMoniker": "C:\\Users\\BYRON-GUZMAN\\source\\repos\\Proyecto-de-la-comvocatoria\\Proyecto-de-la-comvocatoria\\frmCola.cs",
+              "RelativeDocumentMoniker": "Proyecto-de-la-comvocatoria\\frmCola.cs",
+              "ToolTip": "C:\\Users\\BYRON-GUZMAN\\source\\repos\\Proyecto-de-la-comvocatoria\\Proyecto-de-la-comvocatoria\\frmCola.cs",
+              "RelativeToolTip": "Proyecto-de-la-comvocatoria\\frmCola.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCcAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T20:04:01.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "frmPila.cs",
               "DocumentMoniker": "C:\\Users\\BYRON-GUZMAN\\source\\repos\\Proyecto-de-la-comvocatoria\\Proyecto-de-la-comvocatoria\\frmPila.cs",
               "RelativeDocumentMoniker": "Proyecto-de-la-comvocatoria\\frmPila.cs",
               "ToolTip": "C:\\Users\\BYRON-GUZMAN\\source\\repos\\Proyecto-de-la-comvocatoria\\Proyecto-de-la-comvocatoria\\frmPila.cs",
               "RelativeToolTip": "Proyecto-de-la-comvocatoria\\frmPila.cs",
-              "ViewState": "AgIAAFcAAAAAAAAAAAAEwGwAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwDwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-04T17:15:34.621Z",
               "EditorCaption": ""
@@ -56,19 +69,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "frmMenuEstructura.cs",
-              "DocumentMoniker": "C:\\Users\\BYRON-GUZMAN\\source\\repos\\Proyecto-de-la-comvocatoria\\Proyecto-de-la-comvocatoria\\frmMenuEstructura.cs",
-              "RelativeDocumentMoniker": "Proyecto-de-la-comvocatoria\\frmMenuEstructura.cs",
-              "ToolTip": "C:\\Users\\BYRON-GUZMAN\\source\\repos\\Proyecto-de-la-comvocatoria\\Proyecto-de-la-comvocatoria\\frmMenuEstructura.cs",
-              "RelativeToolTip": "Proyecto-de-la-comvocatoria\\frmMenuEstructura.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAnwBgAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T17:13:47.946Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "frmPila.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\BYRON-GUZMAN\\source\\repos\\Proyecto-de-la-comvocatoria\\Proyecto-de-la-comvocatoria\\frmPila.cs",
               "RelativeDocumentMoniker": "Proyecto-de-la-comvocatoria\\frmPila.cs",

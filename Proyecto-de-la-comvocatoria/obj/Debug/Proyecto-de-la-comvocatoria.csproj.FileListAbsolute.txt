@@ -9,3 +9,4 @@ C:\Users\BYRON-GUZMAN\source\repos\Proyecto-de-la-comvocatoria\Proyecto-de-la-co
 C:\Users\BYRON-GUZMAN\source\repos\Proyecto-de-la-comvocatoria\Proyecto-de-la-comvocatoria\obj\Debug\Proyecto-de-la-comvocatoria.csproj.CoreCompileInputs.cache
 C:\Users\BYRON-GUZMAN\source\repos\Proyecto-de-la-comvocatoria\Proyecto-de-la-comvocatoria\obj\Debug\Proyecto-de-la-comvocatoria.exe
 C:\Users\BYRON-GUZMAN\source\repos\Proyecto-de-la-comvocatoria\Proyecto-de-la-comvocatoria\obj\Debug\Proyecto-de-la-comvocatoria.pdb
+C:\Users\BYRON-GUZMAN\source\repos\Proyecto-de-la-comvocatoria\Proyecto-de-la-comvocatoria\obj\Debug\Proyecto_de_la_comvocatoria.frmCola.resources

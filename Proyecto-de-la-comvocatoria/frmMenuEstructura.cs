@@ -26,5 +26,15 @@ namespace Proyecto_de_la_comvocatoria
             }
             this.Show();
         }
+
+        private void btnColas_Click(object sender, EventArgs e)
+        {
+            using (var form = new frmCola())
+            {
+                this.Hide();
+                form.ShowDialog();
+            }
+            this.Show();
+        }
     }
 }
