@@ -52,6 +52,12 @@
     <Compile Include="frmCola.Designer.cs">
       <DependentUpon>frmCola.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmColaCircular.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmColaCircular.Designer.cs">
+      <DependentUpon>frmColaCircular.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmMenuEstructura.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -68,6 +74,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="frmCola.resx">
       <DependentUpon>frmCola.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmColaCircular.resx">
+      <DependentUpon>frmColaCircular.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmMenuEstructura.resx">
       <DependentUpon>frmMenuEstructura.cs</DependentUpon>

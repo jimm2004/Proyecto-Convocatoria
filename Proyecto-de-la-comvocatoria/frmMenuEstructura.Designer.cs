@@ -84,6 +84,7 @@
             this.btnColasCirculares.TabIndex = 1;
             this.btnColasCirculares.Text = "Colas Circulares";
             this.btnColasCirculares.UseVisualStyleBackColor = true;
+            this.btnColasCirculares.Click += new System.EventHandler(this.btnColasCirculares_Click);
             // 
             // label2
             // 

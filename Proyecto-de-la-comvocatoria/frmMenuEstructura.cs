@@ -36,5 +36,15 @@ namespace Proyecto_de_la_comvocatoria
             }
             this.Show();
         }
+
+        private void btnColasCirculares_Click(object sender, EventArgs e)
+        {
+            using (var form = new frmColaCircular())
+            {
+                this.Hide();
+                form.ShowDialog();
+            }
+            this.Show();
+        }
     }
 }
