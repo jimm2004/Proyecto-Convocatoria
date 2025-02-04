@@ -1,0 +1,11 @@
+C:\Users\BYRON-GUZMAN\source\repos\Proyecto-de-la-comvocatoria\Proyecto-de-la-comvocatoria\bin\Debug\Proyecto-de-la-comvocatoria.exe.config
+C:\Users\BYRON-GUZMAN\source\repos\Proyecto-de-la-comvocatoria\Proyecto-de-la-comvocatoria\bin\Debug\Proyecto-de-la-comvocatoria.exe
+C:\Users\BYRON-GUZMAN\source\repos\Proyecto-de-la-comvocatoria\Proyecto-de-la-comvocatoria\bin\Debug\Proyecto-de-la-comvocatoria.pdb
+C:\Users\BYRON-GUZMAN\source\repos\Proyecto-de-la-comvocatoria\Proyecto-de-la-comvocatoria\obj\Debug\Proyecto-de-la-comvocatoria.csproj.AssemblyReference.cache
+C:\Users\BYRON-GUZMAN\source\repos\Proyecto-de-la-comvocatoria\Proyecto-de-la-comvocatoria\obj\Debug\Proyecto_de_la_comvocatoria.frmMenuEstructura.resources
+C:\Users\BYRON-GUZMAN\source\repos\Proyecto-de-la-comvocatoria\Proyecto-de-la-comvocatoria\obj\Debug\Proyecto_de_la_comvocatoria.frmPila.resources
+C:\Users\BYRON-GUZMAN\source\repos\Proyecto-de-la-comvocatoria\Proyecto-de-la-comvocatoria\obj\Debug\Proyecto_de_la_comvocatoria.Properties.Resources.resources
+C:\Users\BYRON-GUZMAN\source\repos\Proyecto-de-la-comvocatoria\Proyecto-de-la-comvocatoria\obj\Debug\Proyecto-de-la-comvocatoria.csproj.GenerateResource.cache
+C:\Users\BYRON-GUZMAN\source\repos\Proyecto-de-la-comvocatoria\Proyecto-de-la-comvocatoria\obj\Debug\Proyecto-de-la-comvocatoria.csproj.CoreCompileInputs.cache
+C:\Users\BYRON-GUZMAN\source\repos\Proyecto-de-la-comvocatoria\Proyecto-de-la-comvocatoria\obj\Debug\Proyecto-de-la-comvocatoria.exe
+C:\Users\BYRON-GUZMAN\source\repos\Proyecto-de-la-comvocatoria\Proyecto-de-la-comvocatoria\obj\Debug\Proyecto-de-la-comvocatoria.pdb
