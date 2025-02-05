@@ -104,6 +104,7 @@
             this.btnListaSimple.TabIndex = 1;
             this.btnListaSimple.Text = "Lista Simple";
             this.btnListaSimple.UseVisualStyleBackColor = true;
+            this.btnListaSimple.Click += new System.EventHandler(this.btnListaSimple_Click);
             // 
             // btnListaDoble
             // 
@@ -114,6 +115,7 @@
             this.btnListaDoble.TabIndex = 1;
             this.btnListaDoble.Text = "Lista Doble";
             this.btnListaDoble.UseVisualStyleBackColor = true;
+            this.btnListaDoble.Click += new System.EventHandler(this.btnListaDoble_Click);
             // 
             // label3
             // 

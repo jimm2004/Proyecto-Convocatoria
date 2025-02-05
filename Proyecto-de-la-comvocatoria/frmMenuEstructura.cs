@@ -46,5 +46,25 @@ namespace Proyecto_de_la_comvocatoria
             }
             this.Show();
         }
+
+        private void btnListaSimple_Click(object sender, EventArgs e)
+        {
+            using (var form = new frmListaSimple())
+            {
+                this.Hide();
+                form.ShowDialog();
+            }
+            this.Show();
+        }
+
+        private void btnListaDoble_Click(object sender, EventArgs e)
+        {
+            using (var form = new frmListaDoble())
+            {
+                this.Hide();
+                form.ShowDialog();
+            }
+            this.Show();
+        }
     }
 }
