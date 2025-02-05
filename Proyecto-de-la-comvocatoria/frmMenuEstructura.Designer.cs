@@ -36,12 +36,7 @@
             this.btnListaSimple = new System.Windows.Forms.Button();
             this.btnListaDoble = new System.Windows.Forms.Button();
             this.label3 = new System.Windows.Forms.Label();
-            this.btnBubleSort = new System.Windows.Forms.Button();
-            this.btnQuickSort = new System.Windows.Forms.Button();
-            this.btnHeapSort = new System.Windows.Forms.Button();
-            this.btnShellSort = new System.Windows.Forms.Button();
-            this.btnSelectionSort = new System.Windows.Forms.Button();
-            this.btnShackerSort = new System.Windows.Forms.Button();
+            this.btnAlgoritmos = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -126,65 +121,16 @@
             this.label3.TabIndex = 0;
             this.label3.Text = "Algoritmos:";
             // 
-            // btnBubleSort
+            // btnAlgoritmos
             // 
-            this.btnBubleSort.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnBubleSort.Location = new System.Drawing.Point(13, 154);
-            this.btnBubleSort.Name = "btnBubleSort";
-            this.btnBubleSort.Size = new System.Drawing.Size(142, 23);
-            this.btnBubleSort.TabIndex = 1;
-            this.btnBubleSort.Text = "BubleSort";
-            this.btnBubleSort.UseVisualStyleBackColor = true;
-            // 
-            // btnQuickSort
-            // 
-            this.btnQuickSort.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnQuickSort.Location = new System.Drawing.Point(155, 154);
-            this.btnQuickSort.Name = "btnQuickSort";
-            this.btnQuickSort.Size = new System.Drawing.Size(142, 23);
-            this.btnQuickSort.TabIndex = 1;
-            this.btnQuickSort.Text = "QuickSort";
-            this.btnQuickSort.UseVisualStyleBackColor = true;
-            // 
-            // btnHeapSort
-            // 
-            this.btnHeapSort.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnHeapSort.Location = new System.Drawing.Point(297, 154);
-            this.btnHeapSort.Name = "btnHeapSort";
-            this.btnHeapSort.Size = new System.Drawing.Size(142, 23);
-            this.btnHeapSort.TabIndex = 1;
-            this.btnHeapSort.Text = "HeapSort";
-            this.btnHeapSort.UseVisualStyleBackColor = true;
-            // 
-            // btnShellSort
-            // 
-            this.btnShellSort.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnShellSort.Location = new System.Drawing.Point(13, 183);
-            this.btnShellSort.Name = "btnShellSort";
-            this.btnShellSort.Size = new System.Drawing.Size(142, 23);
-            this.btnShellSort.TabIndex = 1;
-            this.btnShellSort.Text = "ShellSort";
-            this.btnShellSort.UseVisualStyleBackColor = true;
-            // 
-            // btnSelectionSort
-            // 
-            this.btnSelectionSort.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnSelectionSort.Location = new System.Drawing.Point(155, 183);
-            this.btnSelectionSort.Name = "btnSelectionSort";
-            this.btnSelectionSort.Size = new System.Drawing.Size(142, 23);
-            this.btnSelectionSort.TabIndex = 1;
-            this.btnSelectionSort.Text = "SelectionSort";
-            this.btnSelectionSort.UseVisualStyleBackColor = true;
-            // 
-            // btnShackerSort
-            // 
-            this.btnShackerSort.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnShackerSort.Location = new System.Drawing.Point(297, 183);
-            this.btnShackerSort.Name = "btnShackerSort";
-            this.btnShackerSort.Size = new System.Drawing.Size(142, 23);
-            this.btnShackerSort.TabIndex = 1;
-            this.btnShackerSort.Text = "ShakerSort";
-            this.btnShackerSort.UseVisualStyleBackColor = true;
+            this.btnAlgoritmos.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnAlgoritmos.Location = new System.Drawing.Point(13, 154);
+            this.btnAlgoritmos.Name = "btnAlgoritmos";
+            this.btnAlgoritmos.Size = new System.Drawing.Size(205, 23);
+            this.btnAlgoritmos.TabIndex = 1;
+            this.btnAlgoritmos.Text = "Ordenamiento Algoritmos";
+            this.btnAlgoritmos.UseVisualStyleBackColor = true;
+            this.btnAlgoritmos.Click += new System.EventHandler(this.btnAlgoritmos_Click);
             // 
             // frmMenuEstructura
             // 
@@ -192,15 +138,10 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(457, 234);
             this.Controls.Add(this.btnListaDoble);
-            this.Controls.Add(this.btnShackerSort);
-            this.Controls.Add(this.btnHeapSort);
-            this.Controls.Add(this.btnSelectionSort);
             this.Controls.Add(this.btnColasCirculares);
-            this.Controls.Add(this.btnQuickSort);
             this.Controls.Add(this.btnListaSimple);
-            this.Controls.Add(this.btnShellSort);
             this.Controls.Add(this.btnColas);
-            this.Controls.Add(this.btnBubleSort);
+            this.Controls.Add(this.btnAlgoritmos);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.btnPilas);
@@ -221,12 +162,7 @@
         private System.Windows.Forms.Button btnListaSimple;
         private System.Windows.Forms.Button btnListaDoble;
         private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.Button btnBubleSort;
-        private System.Windows.Forms.Button btnQuickSort;
-        private System.Windows.Forms.Button btnHeapSort;
-        private System.Windows.Forms.Button btnShellSort;
-        private System.Windows.Forms.Button btnSelectionSort;
-        private System.Windows.Forms.Button btnShackerSort;
+        private System.Windows.Forms.Button btnAlgoritmos;
     }
 }
 

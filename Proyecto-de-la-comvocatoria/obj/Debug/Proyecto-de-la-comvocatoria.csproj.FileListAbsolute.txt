@@ -13,3 +13,4 @@ C:\Users\BYRON-GUZMAN\source\repos\Proyecto-de-la-comvocatoria\Proyecto-de-la-co
 C:\Users\BYRON-GUZMAN\source\repos\Proyecto-de-la-comvocatoria\Proyecto-de-la-comvocatoria\obj\Debug\Proyecto_de_la_comvocatoria.frmColaCircular.resources
 C:\Users\BYRON-GUZMAN\source\repos\Proyecto-de-la-comvocatoria\Proyecto-de-la-comvocatoria\obj\Debug\Proyecto_de_la_comvocatoria.frmListaSimple.resources
 C:\Users\BYRON-GUZMAN\source\repos\Proyecto-de-la-comvocatoria\Proyecto-de-la-comvocatoria\obj\Debug\Proyecto_de_la_comvocatoria.frmListaDoble.resources
+C:\Users\BYRON-GUZMAN\source\repos\Proyecto-de-la-comvocatoria\Proyecto-de-la-comvocatoria\obj\Debug\Proyecto_de_la_comvocatoria.frmBubleSort.resources

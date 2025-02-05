@@ -66,5 +66,15 @@ namespace Proyecto_de_la_comvocatoria
             }
             this.Show();
         }
+
+        private void btnAlgoritmos_Click(object sender, EventArgs e)
+        {
+            using (var form = new frmAlgoritmos())
+            {
+                this.Hide();
+                form.ShowDialog();
+            }
+            this.Show();
+        }
     }
 }
